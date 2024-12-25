@@ -1,2 +1,2 @@
 # WolverineDensityOPSCR
-Data and R scripts of open-population spatial capture-recapture analysis to estimate trends in wolverine density determinants in Norway and Sweden
+Data and R scripts for sex-specific open-population spatial capture-recapture (OPSCR) analysis, as described in Moqanaki, E. et al. (2025) Environmental variability across space and time drives the recolonization pattern of a historically persecuted large carnivore. Proceedings of the National Academy of Sciences of the United States of America (PNAS): https://doi.org/10.1073/pnas.2401679122

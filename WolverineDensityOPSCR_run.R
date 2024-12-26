@@ -28,8 +28,8 @@ source("~/dbin_LESS_Cached_MultipleCovResponse.R")
 # The code below assumes data for one sex is loaded only.
 
 ## Load wolverine data
-load("~/15_51_F_OP1.RData") #--female
-load("~/15_51_M_OP1.RData") #--male
+load("~/OPSCR_Female_1.RData") 
+load("~/OPSCR_Male_1.RData") 
 
 
 ## -----------------------------------------------------------------------------
